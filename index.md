@@ -29,7 +29,7 @@
 - **後端開發**：ASP.NET Web API、MVC、WCF、Dapper、Entity Framework
 - **前端開發**：Vue.js、HTML5、CSS、JavaScript、Tailwind CSS
 - **資料庫管理**：MSSQL
-- **系統架構與開發**：Windows Service、RESTful API 設計、分散式系統設計
+- **系統架構與開發**：Windows Service、RESTful API 設計
 - **雲端與部署**：AWS（EC2、S3、Lambda、DynamoDB）
 - **團隊管理與協作**：專案管理、跨部門協作
 - **其他**：軟體架構設計、API 整合、系統效能優化

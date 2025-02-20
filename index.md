@@ -3,14 +3,27 @@
 
 ---
 
-## 📝 **個人資料**
-- **性別**：女
-- **年齡**：35 歲
-- **就業狀況**：在職中
-- **聯絡方式**：vivi3172@gmail.com
-- **Line ID**：vivi0317
-- **通訊地址**：台北市（大安區）
-- **駕照**：普通重型機車駕照
+<table width="100%">
+  <tr>
+    <td width="650" valign="top">
+      <h2>📝 個人資料</h2>
+      <ul>
+        <li><strong>性別</strong>：女</li>
+        <li><strong>年齡</strong>：35 歲</li>
+        <li><strong>就業狀況</strong>：在職中</li>
+        <li><strong>聯絡方式</strong>：vivi3172@gmail.com</li>
+        <li><strong>Line ID</strong>：vivi0317</li>
+        <li><strong>通訊地址</strong>：台北市（大安區）</li>
+        <li><strong>駕照</strong>：普通重型機車駕照</li>
+      </ul>
+    </td>
+    <td width="250" align="center">
+      <img src="https://github.com/vivi3172/ViviLiu/blob/43ed6c53cff24c7cb36d05c586aa446f53ca07ee/profile.jpg" width="150"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 

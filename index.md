@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td width="250" align="center">
-      <img src="https://github.com/vivi3172/ViviLiu/blob/43ed6c53cff24c7cb36d05c586aa446f53ca07ee/profile.jpg" width="150"/>
+      <img src="profile.jpg" width="180"/>
     </td>
   </tr>
 </table>

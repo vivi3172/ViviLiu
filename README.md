@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td width="250" align="center">
-      <img src="profile.jpg" width="180"/>
+      <img src="profile.jpg" width="200"/>
     </td>
   </tr>
 </table>

@@ -14,7 +14,6 @@
         <li><strong>聯絡方式</strong>：vivi3172@gmail.com</li>
         <li><strong>Line ID</strong>：vivi0317</li>
         <li><strong>通訊地址</strong>：台北市（大安區）</li>
-        <li><strong>駕照</strong>：普通重型機車駕照</li>
       </ul>
     </td>
     <td width="250" align="center">

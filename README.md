@@ -16,7 +16,7 @@
         <li><strong>通訊地址</strong>：台北市（大安區）</li>
       </ul>
     </td>
-    <td width="250" align="center">
+    <td width="280" align="center">
       <img src="profile.jpg" width="200"/>
     </td>
   </tr>

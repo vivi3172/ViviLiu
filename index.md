@@ -1,5 +1,5 @@
-# 劉盈汎 (Vivi Liu)
-**後端工程師 | 系統架構設計**
+# 劉盈汎 (Vivi Liu)  
+**後端工程師 | 系統架構設計 | AI 應用開發**
 
 ---
 
@@ -22,67 +22,53 @@
   </tr>
 </table>
 
-
-
 ---
 
-## 📌 **個人簡介** 
-### 擁有 9 年軟體開發經驗，熟悉 C#、.NET 及Vue.js，專注於後端系統架構與開發。具備獨立作業與帶領團隊專案的能力，擅長後端 API 設計與最佳化、資料庫管理與系統整合。具備雲端部署（AWS、Azure）經驗、系統優化與效能調校。擅長跨部門溝通，能夠將業務需求轉化為技術方案。希望加入技術導向的企業，持續精進並與時俱進。
----
-
-## 🎓 **學歷**
-- **私立長庚科技大學** – 資訊管理系 三技畢業（2009/9–2011/6）
-- **私立南榮技術學院** – 資訊管理科 五專畢業（2004/9–2009/6）
+## 📌 **個人簡介**  
+擁有 **10 年軟體開發與系統維運經驗**，專注於 **C#/.NET 後端開發、SQL Server 資料庫管理、醫療資訊系統整合、雲端平台建置**。  
+具備獨立開發、團隊協作與系統架構設計能力，能將需求轉化為高效能、可維護的技術方案。  
+熟悉 **AWS 雲端（EC2、S3、DynamoDB、Lambda）** 及 **微服務架構**，同時涉略 **Vue3 前端開發**，具備前後端跨域整合能力。  
+近期專注於 **AI 與醫療系統結合（FHIR、RIS、PACS、OpenAI API 應用）**。  
 
 ---
 
 ## 🛠 **核心技能**
-- **程式語言 & 技術**：C#、.NET Core/Framework、Vue.js
-- **後端開發**：ASP.NET Web API、MVC、WCF、Dapper、Entity Framework
-- **前端開發**：Vue.js、HTML5、CSS、JavaScript、Tailwind CSS
-- **資料庫管理**：MSSQL
-- **系統架構與開發**：Windows Service、RESTful API 設計
-- **雲端與部署**：AWS（EC2、S3、Lambda、DynamoDB）
-- **團隊管理與協作**：專案管理、跨部門協作
-- **其他**：軟體架構設計、API 整合、系統效能優化
+
+- **後端技術**：C#、.NET Core 3.1 / 6、ASP.NET Web API、MVC、WCF  
+- **資料庫管理**：SQL Server（效能監控、索引調優、AlwaysOn AG）、Dapper、EF  
+- **前端技術**：Vue.js 3、JavaScript、Tailwind CSS、HTML5、XSLT → Vue 重構  
+- **雲端與部署**：AWS（EC2、S3、Lambda、DynamoDB）、Azure 基礎服務、Serverless Framework  
+- **系統架構設計**：RESTful API、Windows Service、JWT / Cookie 驗證、微服務化  
+- **開發週邊**：GitHub Actions（CI/CD）、PowerShell、自動化工具、MCP 協議整合  
+- **其他專長**：醫療資訊系統（FHIR、RIS、PACS）、AI API 串接（OpenAI, Threads, Meta API）、API 安全性強化  
 
 ---
 
 ## 💼 **工作經驗**
 
-### **商之器股份有限公司**（2015/8 – 現在）
-**資深應用研發工程師**
-- 帶領團隊進行醫療軟體開發，負責架構設計
-- 與客戶討論需求，轉化為技術方案並落實開發
-- 後端開發，資料庫規劃設計
-
-### **商之器股份有限公司**（2011/5 – 2015/3）
-**客服部秘書 & 董事長秘書**
-- 負責硬體與軟體採購、訂單處理、表單製作
-- 協助主管交辦事項，兼任董事長秘書
+### **商之器股份有限公司 (EBM Technologies Inc.)**  
+**資深應用研發工程師 | 2015/8 – 現在**  
+- 主導醫療系統（RIS、PACS、FHIR 平台）開發，參與 **影像報告系統、危急通報系統、FHIRPortal** 等專案。  
+- 設計並實作 **後端 API 架構**，包含 JWT 驗證、資料查詢最佳化、軟刪除設計。  
+- 建立 **跨系統整合**：Oracle / SQL Server / FHIR / AI API，支援醫院既有 HIS/RIS 系統。  
+- 擔任 **DBA 角色**：效能監控（CPU / I/O / Memory）、索引最佳化、動態 SQL 優化。  
+- 主導 **資安強化**：CSP、安全標頭、SQL Injection 防禦、WCF 大檔案傳輸調整。  
+- 指導團隊並協助跨部門（醫師 / 業務 / IT 部門）需求轉化與技術落地。  
 
 ---
 
-## 💼 **實習經驗**
-
-### **台塑石化股份有限公司**（2010/11 – 2011/5）
-**實習生**（500人以上企業）
-- 資料處理（建檔、歸檔）、送文件、工時統計、主管交辦事項
-
-### **鈞鎂（印刷電路板製造業(PCB)）**（2010/7 – 2010/8）
-**ISO / 產品品質管理實習生**（1~30人企業）
-- 參與會議學習 PM 工作
+## 🚀 **個人產品**
+- **Postly**：自研 **AI SaaS 社群貼文平台**，支援 Threads、IG、FB API 自動發文，  
+  核心功能：短網址、點擊追蹤、AI 文案產生、使用者多平台帳號管理。  
+- **MCP Tools**：建置 **MCP Server 工具組**，簡化開發與維運工作流程，並整合至 .NET API。  
 
 ---
 
 ## 📜 **專業證照 & 認證**
-- AWS Certified Solutions Architect - Associate
-- Microsoft Certified: Azure Developer Associate 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- Microsoft Certified: Azure Fundamentals
+- AWS Certified Solutions Architect - Associate  
+- Microsoft Certified: Azure Developer Associate  
+- Microsoft Certified: Azure Fundamentals  
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals  
+- Gemini Certified Educator  
 
----
-
-## 🎯 **求職目標**
-希望加入技術導向的企業，專注於**雲端架構、微服務、AI 應用開發或高效能系統設計**，挑戰新的技術，持續學習與成長。
 

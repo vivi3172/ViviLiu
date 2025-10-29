@@ -1,20 +1,23 @@
-# 劉盈汎 (Vivi Liu)  
-**後端工程師 | 系統架構設計 | AI 應用開發**
+# 👋 Hi, I'm Vivi Liu (劉盈汎)
 
+> 💻 後端工程師・系統架構設計・AI 應用開發  
+> 🌥 專注於醫療資訊系統與雲端平台整合，喜歡讓技術帶來更聰明的工作方式。
 ---
 
 <table width="100%">
   <tr>
     <td width="650" valign="top">
-      <h2>📝 個人資料</h2>
-      <ul>
-        <li><strong>性別</strong>：女</li>
-        <li><strong>年齡</strong>：35 歲</li>
-        <li><strong>就業狀況</strong>：在職中</li>
-        <li><strong>聯絡方式</strong>：vivi3172@gmail.com</li>
-        <li><strong>Line ID</strong>：vivi0317</li>
-        <li><strong>通訊地址</strong>：台北市（大安區）</li>
-      </ul>
+      <h2>🪶 關於我</h2>
+      <p>
+        嗨，我是 Vivi，一位熱愛程式設計與系統整合的工程師。  
+從事軟體開發與維運十多年，專注於 **.NET / C# 後端開發、SQL Server 效能優化、醫療資訊系統整合**。  
+我享受把複雜的架構變得清晰簡潔，也喜歡透過 AI 讓日常工作更智慧化。
+
+目前任職於 **商之器科技（EBM Technologies Inc.）**，  
+參與並主導多項醫療系統專案，例如 **RIS、PACS、FHIRPortal、危急通報平台** 等。  
+除了後端開發，也熟悉 **Vue3 前端整合**，  
+並在雲端架構（AWS、Serverless Framework）與 **AI API 應用** 上持續探索。
+      </p>
     </td>
     <td width="280" align="center">
       <img src="profile.jpg" width="200"/>
@@ -24,49 +27,51 @@
 
 ---
 
-## 📌 **個人簡介**  
-擁有 **10 年軟體開發與系統維運經驗**，專注於 **C#/.NET 後端開發、SQL Server 資料庫管理、醫療資訊系統整合、雲端平台建置**。  
-具備獨立開發、團隊協作與系統架構設計能力，能將需求轉化為高效能、可維護的技術方案。  
-熟悉 **AWS 雲端（EC2、S3、DynamoDB、Lambda）** 及 **微服務架構**，同時涉略 **Vue3 前端開發**，具備前後端跨域整合能力。  
-近期專注於 **AI 與醫療系統結合（FHIR、RIS、PACS、OpenAI API 應用）**。  
+## 🧠 技術棧
+
+**後端開發**：C#、.NET 6 / .NET Framework、ASP.NET Web API、MVC、WCF  
+**資料庫**：SQL Server（效能調優、AlwaysOn、Dapper）、Oracle、DynamoDB  
+**前端**：Vue3、JavaScript、Tailwind CSS、HTML5、XSLT → Vue 重構  
+**雲端與部署**：AWS（EC2、S3、Lambda）、Azure 基礎服務、Serverless Framework  
+**架構設計**：RESTful API、Windows Service、JWT / Cookie 驗證、微服務化  
+**工具與整合**：GitHub Actions、PowerShell、自動化流程、MCP Server 整合  
+**AI & 醫療應用**：OpenAI API、Meta API、Threads / FHIR、RIS、PACS
 
 ---
 
-## 🛠 **核心技能**
+## 🚀 個人作品
 
-- **後端技術**：C#、.NET Core 3.1 / 6、ASP.NET Web API、MVC、WCF  
-- **資料庫管理**：SQL Server（效能監控、索引調優、AlwaysOn AG）、Dapper、EF  
-- **前端技術**：Vue.js 3、JavaScript、Tailwind CSS、HTML5、XSLT → Vue 重構  
-- **雲端與部署**：AWS（EC2、S3、Lambda、DynamoDB）、Azure 基礎服務、Serverless Framework  
-- **系統架構設計**：RESTful API、Windows Service、JWT / Cookie 驗證、微服務化  
-- **開發週邊**：GitHub Actions（CI/CD）、PowerShell、自動化工具、MCP 協議整合  
-- **其他專長**：醫療資訊系統（FHIR、RIS、PACS）、AI API 串接（OpenAI, Threads, Meta API）、API 安全性強化  
+- 🧩 **Postly** — AI SaaS 社群貼文平台  
+  支援 Threads / IG / FB 自動發文，具備 AI 文案、短網址、追蹤分析與多帳號管理功能。   
 
 ---
 
-## 💼 **工作經驗**
 
-### **商之器股份有限公司 (EBM Technologies Inc.)**  
-**資深應用研發工程師 | 2015/8 – 現在**  
-- 主導醫療系統（RIS、PACS、FHIR 平台）開發，參與 **影像報告系統、危急通報系統、FHIRPortal** 等專案。  
-- 設計並實作 **後端 API 架構**，包含 JWT 驗證、資料查詢最佳化、軟刪除設計。  
-- 建立 **跨系統整合**：Oracle / SQL Server / FHIR / AI API，支援醫院既有 HIS/RIS 系統。  
-- 擔任 **DBA 角色**：效能監控（CPU / I/O / Memory）、索引最佳化、動態 SQL 優化。  
-- 主導 **資安強化**：CSP、安全標頭、SQL Injection 防禦、WCF 大檔案傳輸調整。  
-- 指導團隊並協助跨部門（醫師 / 業務 / IT 部門）需求轉化與技術落地。  
+## 📜 專業證照 & 認證
+
+- 🏆 AWS Certified Solutions Architect – Associate  
+- 🏆 Microsoft Certified: Azure Developer Associate  
+- 🏆 Microsoft Certified: Azure Fundamentals  
+- 🏆 Microsoft Certified: Security, Compliance, and Identity Fundamentals  
+- 🏆 Gemini Certified Educator  
 
 ---
 
-## 🚀 **個人產品**
-- **Postly**：自研 **AI SaaS 社群貼文平台**，支援 Threads、IG、FB API 自動發文，  
-  核心功能：短網址、點擊追蹤、AI 文案產生、使用者多平台帳號管理。  
-- **MCP Tools**：建置 **MCP Server 工具組**，簡化開發與維運工作流程，並整合至 .NET API。  
+## 🌈 我的理念
+
+> 「技術不只是解決問題的工具，更是創造效率與靈感的橋樑。」
+
+我相信工程師的價值不只在於寫出正確的程式，  
+而是讓系統更穩定、讓使用者更輕鬆，  
+並透過 AI 與自動化讓每一個流程都更聰明。
 
 ---
 
-## 📜 **專業證照 & 認證**
-- AWS Certified Solutions Architect - Associate  
-- Microsoft Certified: Azure Developer Associate  
-- Microsoft Certified: Azure Fundamentals  
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals  
-- Gemini Certified Educator  
+## 📫 聯絡我
+
+📧 vivi3172@gmail.com  
+🌐 [GitHub](https://github.com/vivi3172)  
+📍 Taipei, Taiwan
+
+---
+

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vivi Liu (劉盈汎)
 
-> 💻 全端工程師・系統架構設計・AI Agent 開發者  
-> 🌥 專注於醫療資訊系統與雲端平台整合，打造更聰明的自動化工作方式
+> 全端工程師・系統架構設計・AI Agent 開發者  
+> 專注於醫療資訊系統與雲端平台整合，打造更聰明的自動化工作方式
 
 ---
 
@@ -9,26 +9,23 @@
   <tr>
     <td width="650" valign="top">
       <h2>🪶 關於我</h2>
-      <p>
-        嗨，我是 Vivi，擁有 10+ 年經驗的軟體工程師，專注於系統開發、資料庫與醫療資訊整合。  
-
+        <p>嗨，我是 Vivi，擁有 10+ 年經驗的軟體工程師，專注於系統開發、資料庫與醫療資訊整合。   </p>
         <b>專長領域：</b>
         <ul>
-          <li>⚙️ .NET / C# 後端開發與系統設計</li>
-          <li>🗄 SQL Server 效能優化與資料庫架構</li>
-          <li>🏥 醫療系統整合</li>
+          <li>.NET / C# 後端開發與系統設計</li>
+          <li>SQL Server 效能優化與資料庫架構</li>
+          <li>醫療系統整合</li>
         </ul>
-
-        目前正朝向 <b>AI 驅動工程師</b> 發展，專注於：
+         <b>目前正朝向 AI 驅動工程師 發展，專注於：</b>
         <ul>
-          <li>🤖 AI Agent 設計（Copilot CLI / MCP）</li>
-          <li>⚡ AI 自動化開發流程</li>
-          <li>☁️ 雲端架構（AWS Serverless）</li>
+          <li>AI Agent 設計（Copilot CLI / MCP）</li>
+          <li>AI 自動化開發流程</li>
+          <li>雲端架構（AWS Serverless）</li>
         </ul>
-
+        <p>
         我喜歡將複雜問題轉化為簡潔且可擴展的系統，  
         並透過 AI 讓流程更自動化與高效。
-      </p>
+        </p>
     </td>
     <td width="280" align="center">
       <img src="profile.jpg" width="200"/>
